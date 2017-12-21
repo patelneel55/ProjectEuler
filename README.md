@@ -1,3 +1,3 @@
 # ProjectEuler Challenges
 
-Project Euler Programming Challenges in Python, C++ and Java
+Project Euler Programming Challenges in C++ ,Python and Java
